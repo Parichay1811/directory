@@ -23,7 +23,7 @@ A responsive and user-friendly Directory App built with **React.js** using **Vit
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS (optional for styling), JavaScript
+- **Frontend**: React.js, CSS (optional for styling), JavaScript
 - **Build Tool**: Vite
 - **State Management**: React Hooks
 
