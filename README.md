@@ -1,12 +1,31 @@
-# React + Vite
+# 📇 Directory App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and user-friendly Directory App built with **React.js** using **Vite**, developed by **Parichay Dutta Biswas**. This app allows users to add and manage personal contacts with features like dark mode support and real-time data rendering.
 
-Currently, two official plugins are available:
+## 🔗 Hosted Link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Live Demo](https://parichay-directory.netlify.app/)
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 Add and view contact details
+- 🌗 Dark mode toggle (applied to the entire screen)
+- ⚡ Built with Vite for fast development and build speed
+- ♻️ Fully responsive design
+- 🧠 Uses React Hooks like `useState` and `useEffect`
+- 🔒 Local storage support for data persistence
+
+## 📸 Screenshots
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light Mode](./src/assets/lightmode.png) | ![Dark Mode](./src/assets/darkmode.png) |
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS (optional for styling), JavaScript
+- **Build Tool**: Vite
+- **State Management**: React Hooks
+
+## 📂 Project Structure
+
